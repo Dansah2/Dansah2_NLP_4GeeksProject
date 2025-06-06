@@ -12,8 +12,8 @@ This project implements a **Spam Link Detection System** using **Natural Languag
 
 📊 Features:
 
-- `url`: Number of pregnancies
-- `is_spam`: Diabetes diagnosis (0 = No, 1 = Yes)
+- `url`: the url in question (unstructured data)
+- `is_spam`: spam determination (No = not spam, Yes = spam)
 
 	
 
