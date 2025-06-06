@@ -1,6 +1,12 @@
-# Data Science Project Boilerplate
+# 🧠 Detect Spam Links with an SVM Model
 
-This boilerplate is designed to kickstart data science projects by providing a basic setup for database connections, data processing, and machine learning model development. It includes a structured folder organization for your datasets and a set of pre-defined Python packages necessary for most data science tasks.
+This project implements a **Spam Link Detection System** using **Natural Language Processing (NLP)** techniques and a **Support Vector Machine (SVM)** classifier. The goal is to determine whether a web link is spam based on its URL structure and content.
+
+## 🚀 Project Overview
+
+- **Objective**: Classify URLs as spam or not spam.  
+- **Techniques**: NLP preprocessing, SVM modeling, hyperparameter optimization.  
+- **Tools**: Python, Scikit-learn, Pandas, NLTK, GridSearchCV.
 
 ## Structure
 
