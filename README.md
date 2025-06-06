@@ -8,6 +8,15 @@ This project implements a **Spam Link Detection System** using **Natural Languag
 - **Techniques**: NLP preprocessing, SVM modeling, hyperparameter optimization.  
 - **Tools**: Python, Scikit-learn, Pandas, NLTK, GridSearchCV.
 
+## 📁 Dataset
+
+📊 Features:
+
+- `url`: Number of pregnancies
+- `is_spam`: Diabetes diagnosis (0 = No, 1 = Yes)
+
+	
+
 ## Structure
 
 The project is organized as follows:
